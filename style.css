@@ -1,0 +1,10 @@
+/* QUESTA RIGA SOVRASCRIVE IL TEXT-COLOR PRIMARY DI BOOTSTRAP */
+/* .text-primary {
+  color: yellow !important;
+} */
+/* DOVETE UTILIZZARE LA NOTAZIONE !important IN MODO DA FORNIRE ALLA REGOLA
+LA STESSA SPECIFICITÀ DI QUELLA DI BOOTSTRAP! */
+
+ul {
+  list-style-type: none;
+}
